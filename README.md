@@ -26,4 +26,3 @@ Welcome to the **Design Patterns Project**! This repository offers an in-depth e
 ### PHP Requirements:
 
 - **PHP 8.0+**
-- **Composer**
