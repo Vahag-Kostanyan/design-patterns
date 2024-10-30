@@ -10,6 +10,7 @@ Welcome to the **Design Patterns Project**! This repository offers an in-depth e
 
 - **Singleton Pattern** – A design pattern that restricts the instantiation of a class to one object.
 - **Builder Pattern** – Separates the construction of a complex object from its representation.
+- **Factory Method Pattern** –  Creates objects through a method in subclasses.
 
 <!-- ### 🏗️ Structural Patterns
 
